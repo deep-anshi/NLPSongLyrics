@@ -24,6 +24,7 @@ Most Frequent words used by her are:
 I have used bing tool of syuzhet package. Bing method gives or better yet segregates the words into positive and negative.
 
 Some of Positive words are - Like, Love, faith , won
+
 Some of Negative words are - Wreck, hard, break, lose, sick
 
 ![](Images_NLP/PositiveNegative.png)
