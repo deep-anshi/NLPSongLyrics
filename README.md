@@ -2,7 +2,7 @@
 An extensive analysis of few of the Miley Cyrus songs using Natural Language Processing (NLP) on the lyrics, to uncover the underlying emotions and sentiments and to look for changes in emotions with change in circumstances
 
 
-The Genius.com API allowed me to download the lyrics. In total I have downloaded 5 most famous tracks in regular interval of time as my main focus was to see how change in life circumstances(life events) change her music over the years. 
+The Genius.com API was used to scrape lyrics. 5 most famous tracks (at regular interval of time) are being evaluated as my main focus was to see how change in life circumstances(life events) change music over the years. 
 The Songs are:
 1. The Climb (yr 2009)
 2. Party in The U.S.A. (yr 2009)
